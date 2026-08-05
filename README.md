@@ -260,7 +260,7 @@ Intelligent Automation
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/satyendrasingh">
+<a href="https://linkedin.com/in/satyendrasiingh">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
