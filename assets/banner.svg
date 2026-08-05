@@ -1,1 +1,130 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#0F172A"/>
+</linearGradient>
+
+<linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00E5FF"/>
+<stop offset="100%" stop-color="#22C55E"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1280" height="320" fill="url(#bg)"/>
+
+<!-- Grid -->
+
+<g opacity="0.08">
+
+<path d="M0 40 H1280"/>
+<path d="M0 80 H1280"/>
+<path d="M0 120 H1280"/>
+<path d="M0 160 H1280"/>
+<path d="M0 200 H1280"/>
+<path d="M0 240 H1280"/>
+<path d="M0 280 H1280"/>
+
+<path d="M80 0 V320"/>
+<path d="M160 0 V320"/>
+<path d="M240 0 V320"/>
+<path d="M320 0 V320"/>
+<path d="M400 0 V320"/>
+<path d="M480 0 V320"/>
+<path d="M560 0 V320"/>
+<path d="M640 0 V320"/>
+<path d="M720 0 V320"/>
+<path d="M800 0 V320"/>
+<path d="M880 0 V320"/>
+<path d="M960 0 V320"/>
+<path d="M1040 0 V320"/>
+<path d="M1120 0 V320"/>
+<path d="M1200 0 V320"/>
+
+</g>
+
+<!-- Left Decoration -->
+
+<circle cx="120" cy="85" r="6" fill="#00E5FF"/>
+
+<circle cx="160" cy="125" r="3" fill="#22C55E"/>
+
+<circle cx="210" cy="60" r="4" fill="#00E5FF"/>
+
+<line x1="120" y1="85" x2="160" y2="125" stroke="#00E5FF" opacity="0.4"/>
+
+<line x1="160" y1="125" x2="210" y2="60" stroke="#22C55E" opacity="0.4"/>
+
+<!-- Main Line -->
+
+<rect x="90" y="250" width="1100" height="3" rx="2" fill="url(#line)" filter="url(#glow)"/>
+
+<!-- Name -->
+
+<text
+x="640"
+y="110"
+fill="white"
+font-size="42"
+font-family="Segoe UI"
+font-weight="700"
+text-anchor="middle">
+
+SATYENDRA SINGH
+
+</text>
+
+<!-- Role -->
+
+<text
+x="640"
+y="155"
+fill="#00E5FF"
+font-size="22"
+font-family="Segoe UI"
+text-anchor="middle">
+
+AI &amp; Software Engineer
+
+</text>
+
+<!-- Tagline -->
+
+<text
+x="640"
+y="195"
+fill="#C9D1D9"
+font-size="18"
+font-family="Segoe UI"
+text-anchor="middle">
+
+Research • Build • Innovate
+
+</text>
+
+<!-- Bottom -->
+
+<text
+x="640"
+y="285"
+fill="#6B7280"
+font-size="14"
+font-family="Segoe UI"
+text-anchor="middle">
+
+Building intelligent software for real-world impact.
+
+</text>
+
+</svg>
