@@ -1,5 +1,9 @@
 <div align="center">
+<p align="center">
 
+<img src="./assets/banner.svg" width="100%">
+
+</p>
 # SATYENDRA SINGH
 
 ### AI & Software Engineer
