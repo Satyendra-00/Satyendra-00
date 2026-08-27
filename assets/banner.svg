@@ -1,130 +1,282 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="360" viewBox="0 0 1280 360"
+     xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#050816"/>
-<stop offset="100%" stop-color="#0F172A"/>
-</linearGradient>
+  <!-- Background -->
+  <linearGradient id="background"
+                  x1="0%" y1="0%"
+                  x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="55%" stop-color="#080D1D"/>
+    <stop offset="100%" stop-color="#0B1224"/>
+  </linearGradient>
 
-<linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#00E5FF"/>
-<stop offset="100%" stop-color="#22C55E"/>
-</linearGradient>
+  <!-- Accent -->
+  <linearGradient id="accent"
+                  x1="0%" y1="0%"
+                  x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00E5FF"/>
+    <stop offset="100%" stop-color="#22C55E"/>
+  </linearGradient>
 
-<filter id="glow">
-<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-<feMerge>
-<feMergeNode in="coloredBlur"/>
-<feMergeNode in="SourceGraphic"/>
-</feMerge>
-</filter>
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Soft glow -->
+  <radialGradient id="orb">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+  </radialGradient>
 
 </defs>
 
-<rect width="1280" height="320" fill="url(#bg)"/>
 
-<!-- Grid -->
+<!-- ===================================================== -->
+<!-- BACKGROUND -->
+<!-- ===================================================== -->
 
-<g opacity="0.08">
+<rect width="1280" height="360" rx="18"
+      fill="url(#background)"/>
 
-<path d="M0 40 H1280"/>
-<path d="M0 80 H1280"/>
-<path d="M0 120 H1280"/>
-<path d="M0 160 H1280"/>
-<path d="M0 200 H1280"/>
-<path d="M0 240 H1280"/>
-<path d="M0 280 H1280"/>
 
-<path d="M80 0 V320"/>
-<path d="M160 0 V320"/>
-<path d="M240 0 V320"/>
-<path d="M320 0 V320"/>
-<path d="M400 0 V320"/>
-<path d="M480 0 V320"/>
-<path d="M560 0 V320"/>
-<path d="M640 0 V320"/>
-<path d="M720 0 V320"/>
-<path d="M800 0 V320"/>
-<path d="M880 0 V320"/>
-<path d="M960 0 V320"/>
-<path d="M1040 0 V320"/>
-<path d="M1120 0 V320"/>
-<path d="M1200 0 V320"/>
+<!-- ===================================================== -->
+<!-- SUBTLE GRID -->
+<!-- ===================================================== -->
+
+<g opacity="0.055"
+   stroke="#8B9BB4"
+   stroke-width="1">
+
+  <path d="M0 60 H1280"/>
+  <path d="M0 120 H1280"/>
+  <path d="M0 180 H1280"/>
+  <path d="M0 240 H1280"/>
+  <path d="M0 300 H1280"/>
+
+  <path d="M80 0 V360"/>
+  <path d="M160 0 V360"/>
+  <path d="M240 0 V360"/>
+  <path d="M320 0 V360"/>
+  <path d="M400 0 V360"/>
+  <path d="M480 0 V360"/>
+  <path d="M560 0 V360"/>
+  <path d="M640 0 V360"/>
+  <path d="M720 0 V360"/>
+  <path d="M800 0 V360"/>
+  <path d="M880 0 V360"/>
+  <path d="M960 0 V360"/>
+  <path d="M1040 0 V360"/>
+  <path d="M1120 0 V360"/>
+  <path d="M1200 0 V360"/>
 
 </g>
 
-<!-- Left Decoration -->
 
-<circle cx="120" cy="85" r="6" fill="#00E5FF"/>
+<!-- ===================================================== -->
+<!-- AMBIENT GLOW -->
+<!-- ===================================================== -->
 
-<circle cx="160" cy="125" r="3" fill="#22C55E"/>
+<circle cx="1050" cy="180"
+        r="190"
+        fill="url(#orb)"/>
 
-<circle cx="210" cy="60" r="4" fill="#00E5FF"/>
 
-<line x1="120" y1="85" x2="160" y2="125" stroke="#00E5FF" opacity="0.4"/>
+<!-- ===================================================== -->
+<!-- TOP LABEL -->
+<!-- ===================================================== -->
 
-<line x1="160" y1="125" x2="210" y2="60" stroke="#22C55E" opacity="0.4"/>
+<text x="78" y="72"
+      fill="#64748B"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="13"
+      font-weight="600"
+      letter-spacing="3">
 
-<!-- Main Line -->
-
-<rect x="90" y="250" width="1100" height="3" rx="2" fill="url(#line)" filter="url(#glow)"/>
-
-<!-- Name -->
-
-<text
-x="640"
-y="110"
-fill="white"
-font-size="42"
-font-family="Segoe UI"
-font-weight="700"
-text-anchor="middle">
-
-SATYENDRA SINGH
+      AI / SOFTWARE / RESEARCH
 
 </text>
 
-<!-- Role -->
 
-<text
-x="640"
-y="155"
-fill="#00E5FF"
-font-size="22"
-font-family="Segoe UI"
-text-anchor="middle">
+<!-- ===================================================== -->
+<!-- NAME -->
+<!-- ===================================================== -->
 
-AI &amp; Software Engineer
+<text x="78" y="137"
+      fill="#FFFFFF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="44"
+      font-weight="700"
+      letter-spacing="1">
 
-</text>
-
-<!-- Tagline -->
-
-<text
-x="640"
-y="195"
-fill="#C9D1D9"
-font-size="18"
-font-family="Segoe UI"
-text-anchor="middle">
-
-Research • Build • Innovate
+      SATYENDRA SINGH
 
 </text>
 
-<!-- Bottom -->
 
-<text
-x="640"
-y="285"
-fill="#6B7280"
-font-size="14"
-font-family="Segoe UI"
-text-anchor="middle">
+<!-- ===================================================== -->
+<!-- ROLE -->
+<!-- ===================================================== -->
 
-Building intelligent software for real-world impact.
+<text x="80" y="174"
+      fill="#00E5FF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="20"
+      font-weight="600">
+
+      AI &amp; Software Engineer
 
 </text>
+
+
+<!-- ===================================================== -->
+<!-- TAGLINE -->
+<!-- ===================================================== -->
+
+<text x="80" y="216"
+      fill="#CBD5E1"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="17">
+
+      Research. Build. Innovate.
+
+</text>
+
+
+<!-- ===================================================== -->
+<!-- IDENTITY -->
+<!-- ===================================================== -->
+
+<text x="80" y="252"
+      fill="#64748B"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14">
+
+      Curious • Builder • Researcher
+
+</text>
+
+
+<!-- ===================================================== -->
+<!-- ACCENT LINE -->
+<!-- ===================================================== -->
+
+<rect x="80" y="286"
+      width="470"
+      height="2"
+      rx="2"
+      fill="url(#accent)"
+      filter="url(#glow)"/>
+
+
+<!-- ===================================================== -->
+<!-- RIGHT SIDE SYSTEM VISUAL -->
+<!-- ===================================================== -->
+
+<!-- Connection lines -->
+
+<g fill="none"
+   stroke="url(#accent)"
+   stroke-width="1.5"
+   opacity="0.55">
+
+  <path d="M865 105 L1010 155"/>
+  <path d="M1010 155 L1135 105"/>
+  <path d="M1010 155 L1100 230"/>
+  <path d="M865 105 L900 230"/>
+  <path d="M900 230 L1100 230"/>
+  <path d="M1100 230 L1135 105"/>
+
+</g>
+
+
+<!-- Secondary network -->
+
+<g fill="none"
+   stroke="#334155"
+   stroke-width="1">
+
+  <path d="M820 160 L865 105"/>
+  <path d="M820 160 L900 230"/>
+  <path d="M1135 105 L1180 160"/>
+  <path d="M1180 160 L1100 230"/>
+
+</g>
+
+
+<!-- Main nodes -->
+
+<g filter="url(#glow)">
+
+  <circle cx="865" cy="105"
+          r="7"
+          fill="#00E5FF"/>
+
+  <circle cx="1010" cy="155"
+          r="10"
+          fill="#FFFFFF"/>
+
+  <circle cx="1135" cy="105"
+          r="6"
+          fill="#22C55E"/>
+
+  <circle cx="900" cy="230"
+          r="6"
+          fill="#00E5FF"/>
+
+  <circle cx="1100" cy="230"
+          r="8"
+          fill="#22C55E"/>
+
+</g>
+
+
+<!-- Small nodes -->
+
+<g fill="#475569">
+
+  <circle cx="820" cy="160" r="3"/>
+  <circle cx="1180" cy="160" r="3"/>
+  <circle cx="955" cy="75" r="3"/>
+  <circle cx="1045" cy="270" r="3"/>
+
+</g>
+
+
+<!-- ===================================================== -->
+<!-- RIGHT LABEL -->
+<!-- ===================================================== -->
+
+<text x="1010" y="315"
+      fill="#64748B"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12"
+      font-weight="600"
+      text-anchor="middle"
+      letter-spacing="2">
+
+      INTELLIGENT SYSTEMS
+
+</text>
+
+
+<!-- ===================================================== -->
+<!-- BORDER -->
+<!-- ===================================================== -->
+
+<rect x="1"
+      y="1"
+      width="1278"
+      height="358"
+      rx="18"
+      fill="none"
+      stroke="#1E293B"
+      stroke-width="2"/>
 
 </svg>
