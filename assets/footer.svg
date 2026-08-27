@@ -1,1 +1,129 @@
+<svg width="1280" height="180" viewBox="0 0 1280 180"
+     xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+  <linearGradient id="line"
+                  x1="0%" y1="0%"
+                  x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00E5FF"/>
+    <stop offset="50%" stop-color="#7C3AED"/>
+    <stop offset="100%" stop-color="#22C55E"/>
+  </linearGradient>
+
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+  </radialGradient>
+
+  <filter id="softGlow">
+    <feGaussianBlur stdDeviation="4"/>
+  </filter>
+
+</defs>
+
+
+<!-- Background -->
+
+<rect width="1280" height="180"
+      fill="#050816"/>
+
+
+<!-- Ambient glow -->
+
+<ellipse cx="640" cy="40"
+         rx="420"
+         ry="100"
+         fill="url(#glow)"/>
+
+
+<!-- Top gradient line -->
+
+<rect x="80" y="18"
+      width="1120"
+      height="2"
+      rx="2"
+      fill="url(#line)"
+      opacity="0.8"/>
+
+
+<!-- Network -->
+
+<g stroke="#334155"
+   stroke-width="1"
+   fill="none"
+   opacity="0.65">
+
+  <path d="M300 80 L430 55 L560 82"/>
+  <path d="M720 82 L850 55 L980 80"/>
+
+  <path d="M430 55 L500 115"/>
+  <path d="M850 55 L780 115"/>
+
+</g>
+
+
+<!-- Network nodes -->
+
+<g>
+
+  <circle cx="300" cy="80" r="3" fill="#00E5FF"/>
+  <circle cx="430" cy="55" r="4" fill="#00E5FF"/>
+  <circle cx="560" cy="82" r="3" fill="#22C55E"/>
+
+  <circle cx="720" cy="82" r="3" fill="#22C55E"/>
+  <circle cx="850" cy="55" r="4" fill="#00E5FF"/>
+  <circle cx="980" cy="80" r="3" fill="#22C55E"/>
+
+  <circle cx="500" cy="115" r="3" fill="#475569"/>
+  <circle cx="780" cy="115" r="3" fill="#475569"/>
+
+</g>
+
+
+<!-- Main statement -->
+
+<text x="640"
+      y="82"
+      fill="#FFFFFF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="20"
+      font-weight="600"
+      text-anchor="middle">
+
+  RESEARCH. BUILD. INNOVATE.
+
+</text>
+
+
+<!-- Supporting text -->
+
+<text x="640"
+      y="112"
+      fill="#64748B"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="13"
+      text-anchor="middle">
+
+  Building intelligent software for real-world impact.
+
+</text>
+
+
+<!-- Bottom label -->
+
+<text x="640"
+      y="150"
+      fill="#475569"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="11"
+      font-weight="600"
+      letter-spacing="3"
+      text-anchor="middle">
+
+  SATYENDRA SINGH  •  AI &amp; SOFTWARE ENGINEER
+
+</text>
+
+
+</svg>
