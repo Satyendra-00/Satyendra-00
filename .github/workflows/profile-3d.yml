@@ -1,0 +1,29 @@
+name: Generate 3D Contribution Profile
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Satyendra-00
+
+      - name: Publish generated profile
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./profile-3d-contrib
+          publish_branch: profile-3d-contrib
+          keep_files: true
