@@ -6,14 +6,14 @@
 
 ### AI & Software Engineer
 
-**Research. Build. Innovate.**
+Researcher · Builder · Product Thinker
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+intelligent+software;Turning+real-world+problems+into+products;Exploring+AI+%26+emerging+technology;Curious+%E2%80%A2+Builder+%E2%80%A2+Researcher" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Research.+Build.+Innovate.;Building+intelligent+software;Turning+real-world+problems+into+products;Exploring+AI+%26+emerging+technology" alt="Typing introduction">
 
 <br>
 
 <a href="https://github.com/Satyendra-00"><img src="https://img.shields.io/github/followers/Satyendra-00?style=flat-square&label=Followers&color=0ea5e9"></a>
-<a href="https://github.com/Satyendra-00?tab=repositories"><img src="https://img.shields.io/badge/Building-Projects-111827?style=flat-square&logo=github"></a>
+<a href="https://github.com/Satyendra-00?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-111827?style=flat-square&logo=github"></a>
 <a href="mailto:satyendrasingh3401@gmail.com"><img src="https://img.shields.io/badge/Open_to_Collaboration-22c55e?style=flat-square"></a>
 
 </div>
@@ -26,7 +26,7 @@
 
 I'm a **B.Tech CSE student and AI & Software Engineer** focused on turning ideas into working products. I enjoy the intersection of **AI, software engineering, research, and product thinking**—especially when technology can solve a real-world problem.
 
-My projects explore **smart mobility, decision intelligence, developer analytics, career guidance, and healthcare**. I learn best by building, testing, breaking, and improving things.
+I learn by building: shipping prototypes, experimenting with new tools, and turning rough ideas into usable systems.
 
 ## 🛰️ Mission Control
 
@@ -38,44 +38,15 @@ My projects explore **smart mobility, decision intelligence, developer analytics
 | 📚 Learning | Java, System Design & software engineering fundamentals |
 | 🤝 Open to | Hackathons, collaborations & meaningful projects |
 
-## ⚙️ What I Build
+## ⚡ Areas I Work In
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🤖 AI Systems
+🤖 **AI Systems** &nbsp; • &nbsp; 🚦 **Real-World Software** &nbsp; • &nbsp; 📊 **Developer Intelligence** &nbsp; • &nbsp; 🚀 **Product Engineering**
 
-LLM-powered applications, intelligent workflows, AI integrations and experiments with emerging AI systems.
+</p>
 
-</td>
-<td width="50%">
-
-### 🚦 Real-World Software
-
-Data-driven systems that connect logic, interfaces and real-world constraints to solve practical problems.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 📊 Developer Intelligence
-
-Tools that turn developer activity and technical data into useful insights, visualizations and recommendations.
-
-</td>
-<td>
-
-### 🚀 Product Engineering
-
-From **idea → prototype → deployment**, with a focus on building things people can actually use.
-
-</td>
-</tr>
-</table>
-
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -85,7 +56,7 @@ From **idea → prototype → deployment**, with a focus on building things peop
 
 **Real-Time Signal-Aware Speed Guidance**
 
-Traffic-signal intelligence for urban drivers using signal timing data, phase prediction and location-aware speed guidance.
+Traffic-signal intelligence for urban drivers using timing data, phase prediction and location-aware speed guidance.
 
 `JavaScript` `Leaflet` `OpenStreetMap` `Geoapify`
 
@@ -140,9 +111,7 @@ An AI mentor that analyzes skills, identifies learning gaps and creates personal
 
 A healthcare-focused project exploring how software can improve accessibility and user experience around health-related workflows.
 
-`JavaScript`
-
-<a href="https://github.com/Satyendra-00/HealthBridge">Repository</a>
+`JavaScript` · <a href="https://github.com/Satyendra-00/HealthBridge">Repository</a>
 
 ## 🧰 Tech Stack
 
