@@ -1,22 +1,14 @@
 <div align="center">
-<p align="center">
 
-<img src="./assets/banner.svg" width="100%">
+<img src="./assets/banner.svg" width="100%" alt="Satyendra Singh - AI & Software Engineer">
 
-</p>
-# SATYENDRA SINGH
+<br><br>
 
-### AI & Software Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Research.+Build.+Innovate.;Curious+%E2%80%A2+Builder+%E2%80%A2+Researcher;Building+Intelligent+Software;AI+%7C+Research+%7C+Software+Engineering;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;Exploring+AI+%26+Emerging+Technology;Turning+Ideas+into+Working+Products;Always+Learning%2C+Always+Building" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Satyendra-00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<a href="https://github.com/Satyendra-00">
-<img src="https://img.shields.io/github/followers/Satyendra-00?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Satyendra-00&label=PROFILE+VIEWS&color=00E5FF&style=flat-square">
 
 </div>
 
