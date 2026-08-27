@@ -268,12 +268,16 @@ Intelligent Automation
 
 ---
 
+<br>
+
 <div align="center">
 
-## Research. Build. Innovate.
+<img src="./assets/footer.svg"
+     width="100%"
+     alt="Research Build Innovate">
 
-*"Building intelligent software that creates real-world impact."*
+<br>
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
 
 </div>
