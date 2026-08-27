@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=7C8CFF&center=true&vCenter=true&width=780&lines=Hello+there%2C+fellow+coder+%F0%9F%91%8B;AI+%7C+Software+Engineering+%7C+Research;Building+products+that+solve+real+problems;Curious+%E2%80%A2+Builder+%E2%80%A2+Researcher" alt="Animated introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=7C8CFF&center=true&vCenter=true&width=780&lines=Hello+there%2C+fellow+builder+%F0%9F%91%8B;AI+%7C+Software+Engineering+%7C+Research;Building+products+that+solve+real+problems;Curious+%E2%80%A2+Builder+%E2%80%A2+Researcher" alt="Animated introduction">
 </div>
 
 <div align="center">
@@ -16,23 +16,19 @@
 
 <br>
 
-<p align="center">
-  <img src="./assets/ss-logo.svg" width="44" alt="SS">
-</p>
+<p align="center"><img src="./assets/ss-logo.svg" width="44" alt="SS"></p>
 
 ## 💻 `whoami`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
 │  $ whoami                                                   │
-│  satyendra@research-lab                                     │
+│  satyendra@research-lab:~$ build --solve-real-problems     │
 │                                                             │
 │  role      → AI & Software Engineer                         │
-│  mindset   → Research first. Build fast. Ship useful.       │
+│  mindset   → Research first. Build fast. Ship useful.      │
 │  interests → AI • Product Engineering • Systems • Research │
 │  status    → 🟢 Building & experimenting                    │
-│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -54,19 +50,13 @@ I learn by building — prototypes, experiments, hackathon projects and products
 ## 🧰 Tech Arsenal
 
 ### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" height="42" alt="Languages">
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" height="42" alt="Languages"></p>
 
 ### ⚙️ Frameworks & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,supabase,firebase,tailwind" height="42" alt="Frameworks and backend">
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,flask,supabase,firebase,tailwind" height="42" alt="Frameworks and backend"></p>
 
 ### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" height="42" alt="Tools and platforms">
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" height="42" alt="Tools and platforms"></p>
 
 ## 🚀 Featured Builds
 
@@ -135,21 +125,17 @@ An AI mentor that analyzes skills, identifies gaps and generates personalized le
 
 ## 🧪 Currently Exploring
 
-<div align="center">
-
-`Agentic AI`　`Intelligent Systems`　`System Design`　`Software Architecture`　`AI Product Engineering`
-
-</div>
+<div align="center">`Agentic AI`　`Intelligent Systems`　`System Design`　`Software Architecture`　`AI Product Engineering`</div>
 
 ## 📊 GitHub Command Center
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Satyendra-00&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra-00&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyendra-00&theme=github_dark&animation=rgb-soft" alt="GitHub profile summary">
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Satyendra-00&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyendra-00&theme=github_dark&animation=load" alt="GitHub statistics">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyendra-00&theme=github_dark&animation=load" alt="Top languages">
 </p>
 
 ## 🐍 Contribution Matrix
@@ -165,7 +151,7 @@ An AI mentor that analyzes skills, identifies gaps and generates personalized le
 ## 🌐 3D Contribution World
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution profile">
+  <img src="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution profile">
 </p>
 
 ## 🔭 What's Next?
@@ -181,13 +167,9 @@ An AI mentor that analyzes skills, identifies gaps and generates personalized le
 ## 🤝 Let's Connect
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/satyendrasingh/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:satyendrasingh3401@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Satyendra-00"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
 <br><br>
-
 <img src="./assets/footer.svg" width="100%" alt="Research Build Innovate">
-
 </div>
