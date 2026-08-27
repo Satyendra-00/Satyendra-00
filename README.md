@@ -1,107 +1,147 @@
 <div align="center">
 
-<img src="./assets/ss-logo.svg" width="64" alt="SS logo">
+# <img src="./assets/ss-logo.svg" width="52" valign="middle"> SATYENDRA SINGH
 
-# SATYENDRA SINGH
+### `AI & SOFTWARE ENGINEER` · `BUILDER` · `RESEARCHER`
 
-### AI & Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Research.+Build.+Innovate.;Building+AI-powered+products;Turning+real-world+problems+into+software;Learning+by+shipping%2C+breaking+%26+rebuilding" alt="Typing animation">
 
-Researcher · Builder · Product Thinker
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Research.+Build.+Innovate.;Building+intelligent+software;Turning+real-world+problems+into+products;Exploring+AI+%26+emerging+technology" alt="Typing introduction">
-
-<br>
-
-<a href="https://github.com/Satyendra-00"><img src="https://img.shields.io/github/followers/Satyendra-00?style=flat-square&label=Followers&color=0ea5e9"></a>
-<a href="https://github.com/Satyendra-00?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-111827?style=flat-square&logo=github"></a>
-<a href="mailto:satyendrasingh3401@gmail.com"><img src="https://img.shields.io/badge/Open_to_Collaboration-22c55e?style=flat-square"></a>
+<p>
+<a href="https://github.com/Satyendra-00"><img src="https://img.shields.io/github/followers/Satyendra-00?label=Followers&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Satyendra-00?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0ea5e9?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:satyendrasingh3401@gmail.com"><img src="https://img.shields.io/badge/Let's%20Build-22c55e?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 </div>
 
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Satyendra Singh AI and software engineering banner">
+<p align="center"><img src="./assets/banner.svg" width="100%" alt="Satyendra Singh banner"></p>
+
+---
+
+## 👋 `whoami`
+
+```text
+Satyendra Singh
+├── AI & Software Engineer
+├── B.Tech CSE Student
+├── Product-minded Builder
+├── Hackathon Enthusiast
+└── Always learning something new
+```
+
+I build software around **real problems** — from traffic-signal intelligence and developer analytics to AI-assisted decision making and career guidance.
+
+My approach is simple:
+
+> **Find a problem → understand it deeply → build a prototype → test it → ship it → improve it.**
+
+---
+
+## 🟢 `CURRENT_STATUS`
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>🔨 BUILDING</b><br><sub>AI-powered products</sub></td>
+<td align="center" width="25%"><b>🧪 EXPLORING</b><br><sub>Agentic AI & intelligent systems</sub></td>
+<td align="center" width="25%"><b>📚 LEARNING</b><br><sub>Java & System Design</sub></td>
+<td align="center" width="25%"><b>🤝 OPEN TO</b><br><sub>Hackathons & collaborations</sub></td>
+</tr>
+</table>
+
+---
+
+# 〖 SKILLS 〗
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="45">
 </p>
 
-## 👋 About Me
+### 🌐 Frontend & Web
 
-I'm a **B.Tech CSE student and AI & Software Engineer** focused on turning ideas into working products. I enjoy the intersection of **AI, software engineering, research, and product thinking**—especially when technology can solve a real-world problem.
-
-I learn by building: shipping prototypes, experimenting with new tools, and turning rough ideas into usable systems.
-
-## 🛰️ Mission Control
-
-| | Current Focus |
-|---|---|
-| 🟢 Building | AI-powered products & practical software systems |
-| 🔬 Exploring | Agentic AI, intelligent systems & automation |
-| 💻 Engineering | Python • Java • JavaScript • TypeScript • React |
-| 📚 Learning | Java, System Design & software engineering fundamentals |
-| 🤝 Open to | Hackathons, collaborations & meaningful projects |
-
-## ⚡ Areas I Work In
-
-<p align="center">
-
-🤖 **AI Systems** &nbsp; • &nbsp; 🚦 **Real-World Software** &nbsp; • &nbsp; 📊 **Developer Intelligence** &nbsp; • &nbsp; 🚀 **Product Engineering**
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs" height="45">
 </p>
 
-## 🚀 Featured Projects
+### 🤖 AI / Data / Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,supabase,firebase" height="45">
+</p>
+
+`Gemini API` · `Generative AI` · `Prompt Engineering` · `REST APIs` · `JSON`
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" height="45">
+</p>
+
+---
+
+# 〖 🚀 FEATURED PROJECTS 〗
+
+<p align="center"><i>Things I've built because I couldn't stop thinking about the problem.</i></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 SignalX
+## 🚦 SignalX
 
-**Real-Time Signal-Aware Speed Guidance**
+### Real-Time Signal-Aware Navigation
 
-Traffic-signal intelligence for urban drivers using timing data, phase prediction and location-aware speed guidance.
+Uses traffic-signal timing data, phase prediction and location intelligence to guide urban drivers toward signal-aware speeds.
 
-`JavaScript` `Leaflet` `OpenStreetMap` `Geoapify`
+**Built with**  
+`JavaScript` `Leaflet` `OpenStreetMap` `Geoapify` `JSON`
 
-<a href="https://github.com/Satyendra-00/SignalX">Repository</a> · <a href="https://signall-x.vercel.app/">Live Prototype</a>
+<a href="https://github.com/Satyendra-00/SignalX">🔗 Source</a> · <a href="https://signall-x.vercel.app/">🌐 Live</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📉 FaultLine
+## 📉 FaultLine
 
-**Decision Intelligence from Failure**
+### Failure Intelligence Platform
 
-A platform for documenting failures, extracting lessons and turning experience into structured, reusable knowledge.
+Turns failed decisions and post-mortems into structured lessons, risk signals and reusable decision intelligence.
 
+**Built with**  
 `React` `TypeScript` `Supabase` `Gemini` `Vercel`
 
-<a href="https://github.com/Satyendra-00/faultline">Repository</a> · <a href="https://faultlinee.vercel.app/">Live Demo</a>
+<a href="https://github.com/Satyendra-00/faultline">🔗 Source</a> · <a href="https://faultlinee.vercel.app/">🌐 Live</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 SkillLens
+## 🎯 SkillLens
 
-**Developer Skill Intelligence**
+### Developer Skill Intelligence
 
-Transforms coding activity into a visual skill profile with analytics, recommendations and developer insights.
+Transforms coding activity into visual skill profiles, analytics, recommendations and developer insights.
 
+**Built with**  
 `React` `TypeScript` `Vite` `Recharts` `Supabase`
 
-<a href="https://github.com/Satyendra-00/Skill-lens">Repository</a>
+<a href="https://github.com/Satyendra-00/Skill-lens">🔗 Source</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 SkillPath AI
+## 📈 SkillPath AI
 
-**AI Career & Skill Guidance**
+### AI Career & Skill Mentor
 
-An AI mentor that analyzes skills, identifies learning gaps and creates personalized career and learning guidance.
+Analyzes skills, finds learning gaps and generates personalized career, learning and resume guidance.
 
+**Built with**  
 `Python` `Flask` `Gemini` `Supabase` `ElevenLabs`
 
-<a href="https://github.com/Satyendra-00/Skill-path">Repository</a> · <a href="https://skill-path-ai-xi.vercel.app/">Live Platform</a>
+<a href="https://github.com/Satyendra-00/Skill-path">🔗 Source</a> · <a href="https://skill-path-ai-xi.vercel.app/">🌐 Live</a>
 
 </td>
 </tr>
@@ -109,66 +149,94 @@ An AI mentor that analyzes skills, identifies learning gaps and creates personal
 
 ### ❤️ HealthBridge
 
-A healthcare-focused project exploring how software can improve accessibility and user experience around health-related workflows.
+A healthcare-focused project exploring software experiences around health-related workflows.
 
-`JavaScript` · <a href="https://github.com/Satyendra-00/HealthBridge">Repository</a>
+<a href="https://github.com/Satyendra-00/HealthBridge">View repository →</a>
 
-## 🧰 Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nodejs,flask,supabase,firebase,git,github,vscode,figma,vercel" alt="Technology stack">
-</p>
+# 〖 🏆 EXPERIENCE 〗
 
-## 🧠 Currently Exploring
+| Role | What I worked on |
+|---|---|
+| **SEO Engineer · Speedo Express** | Technical SEO, content systems, optimization & digital growth |
+| **Outreach & Research Intern · NIET TBI** | Outreach, partnerships & startup research |
+| **AI/Web Development Intern · Lenovo India** | AI-focused web application & product development |
 
-<p align="center">
+---
 
-`Agentic AI` &nbsp; `Intelligent Systems` &nbsp; `Software Architecture` &nbsp; `System Design`
-
-</p>
-
-## 🏆 Experience
-
-**SEO Engineer — Speedo Express**  
-Technical SEO, content systems, optimization and digital growth.
-
-**Outreach & Research Intern — NIET Technology Business Incubator**  
-Community outreach, partnership building and startup research.
-
-**AI-Driven Web Application & Product Development Intern — Lenovo India**  
-AI-focused product development, web development and software engineering.
-
-## 📊 GitHub Analytics
+# 〖 📊 GITHUB STATS 〗
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyendra-00&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra-00&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+<a href="https://github.com/Satyendra-00">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyendra-00&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
+</a>
+<a href="https://github.com/Satyendra-00">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra-00&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
+</a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Satyendra-00&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=Satyendra-00&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
-## 🐍 Contribution Journey
+---
+
+# 〖 🐍 CONTRIBUTION SNAKE 〗
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/Satyendra-00/Satyendra-00/output/github-snake.svg" width="100%" alt="Contribution snake">
 </picture>
 </p>
 
-## 🤝 Let's Connect
+---
+
+# 〖 🌐 3D CONTRIBUTION WORLD 〗
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyendrasingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:satyendrasingh3401@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Satyendra-00"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph">
+</p>
+
+---
+
+# 〖 🧭 WHAT'S NEXT 〗
+
+```text
+NOW
+ │
+ ├── Build more AI products
+ │
+ ├── Go deeper into Agentic AI
+ │
+ ├── Improve Java + System Design
+ │
+ ├── Participate in bigger hackathons
+ │
+ └── Turn prototypes into products
+ │
+ ▼
+NEXT
+```
+
+---
+
+# 〖 🤝 LET'S CONNECT 〗
+
+<p align="center">
+<a href="https://www.linkedin.com/in/satyendrasingh/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:satyendrasingh3401@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Satyendra-00"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+<b>⭐ If something here helped or inspired you, consider giving a project a star.</b>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Research Build Innovate footer">
+<img src="./assets/footer.svg" width="100%" alt="Research Build Innovate footer">
 </div>
